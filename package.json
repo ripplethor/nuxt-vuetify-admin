@@ -10,7 +10,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "eslint" : "eslint ."
+    "eslint": "eslint ."
   },
   "repository": {
     "type": "git",
